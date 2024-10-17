@@ -7,7 +7,7 @@ Game/Engine Developer. Currently working on a cross-platform retro-style game en
 ### Current Projects:
 - [**OptiDice**](https://github.com/A31Nesta/OptiDice): 3D Physics-based dice app for WearOS watches made in Godot
 
-### Current Projects \[Private\]:
+### Current Projects \[Private for now\]:
 - **Selengine**: Modular Game Engine made with BGFX in C++
   - **Seload**: SO and DLL hot-reloading library
   - **Meatgrinder**: Scene compiler for Selengine and other personal projects
