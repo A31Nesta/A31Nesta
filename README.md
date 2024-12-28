@@ -7,13 +7,13 @@ Web and Game/Engine Developer. Currently working on a cross-platform BGFX and We
 ### Current Projects:
 - [**OptiDice**](https://github.com/A31Nesta/OptiDice): 3D Physics-based dice app for WearOS watches made in Godot
 - [**Monochromatic Observer**](https://a31nesta.github.io/monochromatic-observer/): A simple demo website with Custom Themes and some simple graphics demonstrations
-- [**Penumbra**](https://github.com/A31Nesta/Penumbra): Simple Renderer which supports BGFX and WebGPU for rendering
+- [**Penumbra**](https://github.com/A31Nesta/Penumbra): Simple Renderer that can be compiled with BGFX or WebGPU
 
 ### Current Projects \[Private for now\]:
-- **Selengine**: Modular Game Engine made with Penumbra in C++
+- **Occlusion**: Modular Game Engine made with Penumbra in C++
   - **Seload**: SO and DLL hot-reloading library
-  - **Meatgrinder**: Scene compiler for Selengine and other personal projects
-  - **Selei**: CLI Utility for game development in Selengine
+  - **Meatgrinder**: Scene compiler for Occlusion and other personal projects
+  - **Selei**: CLI Utility for game development in Occlusion
 
 ### About me:
 - My favorite programming language is C++
