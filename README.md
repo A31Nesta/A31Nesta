@@ -8,7 +8,7 @@ Web and Game/Engine Developer. Currently working on a cross-platform BGFX and We
 - [**OptiDice**](https://github.com/A31Nesta/OptiDice): 3D Physics-based dice app for WearOS watches made in Godot
 - [**Monochromatic Observer**](https://a31nesta.github.io/monochromatic-observer/): A simple demo website with Custom Themes and some simple graphics demonstrations
 - [**Penumbra**](https://github.com/A31Nesta/Penumbra): Simple Renderer that can be compiled with BGFX or WebGPU
-[**EcLang**](https://github.com/A31Nesta/EcLang): Node tree definition language and C++ library to compile/decompile/work with it.
+- [**EcLang**](https://github.com/A31Nesta/EcLang): Node tree definition language and C++ library to compile/decompile/work with it.
 
 ### Current Projects \[Private for now\]:
 - **Occlusion**: Modular Game Engine made with Penumbra in C++
