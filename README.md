@@ -12,4 +12,4 @@ Hello, I'm a guy who enjoys graphics programming.
 - My favorite programming languages are C++ and Rust
 - I enjoy learning about computer graphics and low-level programming
 - I'm a Linux user
-- I'm fluent in English and Spanish
+- I speak English and Spanish
