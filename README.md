@@ -6,18 +6,19 @@ Professional web developer and hobbyist `*` developer.
 
 ### Current Projects:
 - [**Emitted Rune**](https://dev.emittedrune.com): Presentation software with Rune scripting made with Vue, TypeScript and Rust
+  - ~~Major overhaul~~ Remake and native desktop version planned
 - [**OptiDice**](https://github.com/A31Nesta/OptiDice): 3D Physics-based dice app for WearOS watches made in Godot
-<!-- TODO: Change to negen5 / VoirNE -->
-<!-- - [**Project Generator**](https://the.black.observer/bos): Modding-first cross-platform game engine made with Rust -->
-- **OMNITOOL-IR**: Universal Remote firmware for the Cardputer with an SQLite database and SOMA-inspired UI
+  - In a distant future I'd also love to remake this one with my own renderer instead of an entire engine
+
+#### Current Projects (Private until they're good enough):
+- **Voir Graphics**: Rendering, UI and Games library (*Viore*), framework (*Voir*) and engine (*Selambda*)
+- **Svhesta**: Lightweight, agile and user-friendly non-hacking tools for the M5Stack Cardputer (ESP32S3)
 
 ### Fun little facts:
 - My favorite programming languages are Rust and TypeScript
-- I enjoy computer graphics (SDFs my beloved)
-- I also enjoy frontend webdev
+- I enjoy graphics programming and embedded systems
 - I'm a Linux user
 - I speak English and Spanish
-- I hope you enjoyed each fact equally
 
 ### Touch-grass-o-meter:
 ![Profile Trophies](https://trophygh.kolioaris.xyz/?username=A31Nesta&theme=aura&title=MultiLanguage,Commits,Experience,Stars,Issues,Repositories)
