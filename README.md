@@ -12,12 +12,15 @@ Professional web developer and hobbyist `*` developer.
 - [**Svhesta**](https://github.com/A31Nesta/svhesta): Lightweight, agile and user-friendly non-hacking tools for the M5Stack Cardputer ADV (ESP32S3)
 
 #### Current Projects (Private until they're good enough):
-- **Voir Graphics**: Rendering, UI and Games library (*Viore*), framework (*Voir*) and engine (*Selambda*)
+- **Voir Graphics**: Modular rendering, UI and games engine
+  - *Svhal*: Graphics API abstraction layer used by Voir
+  - *Voir*: Modular rendering, UI and games framework
+  - *Selambda*: Modular rendering, UI and games engine complete with GUI and Scripting
 
 ### Fun little facts:
 - My favorite programming languages are Rust and TypeScript
 - I enjoy graphics programming and embedded systems
-- I'm a Linux user
+- I'm a Linux user (mainly Arch and NixOS, Debian on some devices)
 - I speak English and Spanish
 
 ### Touch-grass-o-meter:
