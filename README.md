@@ -20,8 +20,10 @@ Professional web developer and hobbyist `*` developer.
 ### Fun little facts:
 - My favorite programming languages are Rust and TypeScript
 - I enjoy graphics programming and embedded systems
-- I'm a Linux user (mainly Arch and NixOS, Debian on some devices)
+- I'm a Linux user (mainly NixOS and Arch)
 - I speak English and Spanish
+- In my restless dreams, I see that town
+- I'm alone there, now. In my [special git server](https://git.black.observer/A31Nesta)
 
 ### Touch-grass-o-meter:
 ![Profile Trophies](https://trophygh.kolioaris.xyz/?username=A31Nesta&theme=aura&title=MultiLanguage,Commits,Experience,Stars,Issues,Repositories)
