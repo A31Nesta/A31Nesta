@@ -1,6 +1,7 @@
 ## A31Nesta
 
-Professional web developer and hobbyist `*` developer.  
+Programming is the best survival horror game.  
+<!-- Though now with AI, programming is even more depressing than SIGNALIS so that's a win for Survival Horror enthusiasts like me. Claude, kill me and make no mistakes -->
 
 ![separator_h_400](https://github.com/user-attachments/assets/a41fdb89-6e84-4c96-9d3d-b0fabdc3578f)
 
@@ -9,18 +10,15 @@ Professional web developer and hobbyist `*` developer.
   - ~~Major overhaul~~ Remake and native desktop version planned
 - [**OptiDice**](https://github.com/A31Nesta/OptiDice): 3D Physics-based dice app for WearOS watches made in Godot
   - In a distant future I'd also love to remake this one with my own renderer instead of an entire engine
-- [**Svhesta**](https://github.com/A31Nesta/svhesta): Lightweight, agile and user-friendly non-hacking tools for the M5Stack Cardputer ADV (ESP32S3)
 
 #### Current Projects (Private until they're good enough):
-- **Voir Graphics**: Modular rendering, UI and games engine
-  - *Svhal*: Graphics API abstraction layer used by Voir
-  - *Voir*: Modular rendering, UI and games framework
-  - *Selambda*: Modular rendering, UI and games engine complete with GUI and Scripting
+- **Voir Graphics**: Modular rendering, UI and games engine with a custom dynamic GI model optimized for potatoes
+- **NEOS**: ELF-based OS for ESP32-based devices, mainly M5Stack Cardputer ADV and Lilygo T-Deck
 
 ### Fun little facts:
 - My favorite programming languages are Rust and TypeScript
 - I enjoy graphics programming and embedded systems
-- I'm a Linux user (mainly NixOS and Arch)
+- I'm a Linux user (mainly NixOS)
 - I speak English and Spanish
 - In my restless dreams, I see that town
 - I'm alone there, now. In my [special git server](https://git.black.observer/A31Nesta)
